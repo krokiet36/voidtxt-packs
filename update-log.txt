@@ -1,1 +1,7 @@
-Brak wpisów.
+>> Zmiana Koloru pereł na kolor z texture packa
+>> Zmiana Koloru cob weba na kolor z texture packa
+>> Zmiana Koloru tnt na kolor z texture packa
+>> Zmiana Koloru tnt minecarta na kolor z texture packa
+>> Usuneliśmy Rainbow Collection
+>> Zmiana Koloru ognia na kolor z texture packa
+>> Od teraz ogień jest mały a po podpaleniu nie jest widoczny 
